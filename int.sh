@@ -3,8 +3,10 @@ figlet "SCrackChanel" | lolcat
 echo "Tunggu Sebentar" | lolcat
 sleep 4
 clear
+python2 pwds.py
+clear
 figlet -f slant "WELCOME"|lolcat
-echo
+sleep 2
 clear
 echo 
 echo "+===============================+" | lolcat
